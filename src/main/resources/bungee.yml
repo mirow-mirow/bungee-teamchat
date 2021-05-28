@@ -1,0 +1,11 @@
+name: TeamChat
+version: ${project.version}
+main: org.mrw.teamchat.TeamChat
+description: BungeeCord TeamChat-Plugin
+
+commands:
+  teamchat:
+  tc:
+  staffchat:
+  sc:
+
