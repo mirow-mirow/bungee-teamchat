@@ -1,2 +1,3 @@
-# bungee-teamchat
-A Bungee Teamchat Plugin
+# Bungee Teamchat
+A Bungee Teamchat Plugin for Minecraft 1.16
+
